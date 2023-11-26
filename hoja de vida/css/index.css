@@ -1,0 +1,117 @@
+body{
+    margin: 0;
+    padding:0;
+    background:#fbf5f3;
+    
+    }
+    .name{
+    width: 100;
+    height: 300px;
+    background:#8EB8E5;
+    transform: skewy(-5deg);
+    
+    }
+    
+    .name .content {
+    
+    width: 50%;
+     height:50% ;
+    position: absolute;
+    left: 25%;
+    
+    }
+    
+    .name .content .p-1{
+     color: floralwhite;
+     font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    font-size: 45px;
+    
+    }
+    
+    .name .content .p-2{
+    color: floralwhite;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+    margin-top: 0;
+    margin-bottom: 0;
+    }
+    .name .imagine{
+    position: absolute;
+    top: 25%;
+    right: -1900%;
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+    transform: skewy(-5deg);
+    overflow:hidden ;
+    } 
+    .name .imagine img {
+    width: 180px;
+    height: 220px;
+    }
+    
+    .info {
+    width: 87%;
+    height: auto;
+    background:#090c9b;
+    margin:5% auto;
+    padding: 20px;
+    border-radius: 20px;
+    }
+    .info .tituloinfo {
+    color: #fbf5f3;
+    font-family: 'Poppins', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom:2px #fbf5f3 solid;
+    }
+    .info .titulo{
+    color: #fbf5f3;
+    font-family: 'poppins', sans-serif;
+    font-weight:bolder ;
+    font-size:large ;
+    }
+    .info .informacion{
+    color: #ffd400;
+    font-family: 'poppings' sans-serif;
+    font-size:large ;
+    font-weight: bolder;
+    }
+    .info .telefono{
+    color: #fbf5f3;
+    font-family: 'poppins', sans-serif;
+    font-weight:bolder ;
+    font-size:large ;
+    }
+    .info .tp{
+    color: #ffd400;
+    font-family: 'poppings' sans-serif;
+    font-size:large ;
+    font-weight: bolder;
+    }
+    .info .cr{
+    color: #fbf5f3;
+    font-family: 'poppins', sans-serif;
+    font-weight:bolder ;
+    font-size:large ;
+    }
+    .info .tb {
+    color: #ffd400;
+    font-family: 'poppings' sans-serif;
+    font-size:large ;
+    font-weight: bolder;
+    }
+    .info .dir{
+    color: #fbf5f3;
+    font-family: 'poppins', sans-serif;
+    font-weight:bolder ;
+    font-size:large ;
+    }
+    .info .calle{
+    color: #ffd400;
+    font-family: 'poppings' sans-serif;
+    font-size:large ;
+    font-weight: bolder; }
